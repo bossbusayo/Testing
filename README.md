@@ -7,3 +7,5 @@ new line in my stuff
 
 A new stuff
 A new shit
+
+some more changes
